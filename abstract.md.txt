@@ -1,4 +1,4 @@
-## Abstract
+Abstract of Smart Grid and Its Applications with IOT & BLockChain
 
 Smart grid is an electrical grid which induces a variety of operational & energy measures including smart meters, smart appliances, renewable energy resources and energy efficient resources. The most important aspects of the smart grid are electronic power conditioning, control of production of electricity and distribution of electricity.
 	The Internet Of Things is the internetworking of physical devices, vehicles, buildings and other items – embedded with electronics, software, sensors, actuators and network connections that enable these objects to collect and exchange data. When IOT is augmented with sensors & actuators, the technology becomes an instance of the more general class of cyber–physical systems, which also encompass technologies such as smart grids & expanding to areas such as smart cities. [i.e. making smart things smarter]
