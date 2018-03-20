@@ -12,7 +12,7 @@ An IOT enabled meter is installed in every house, that sends the meter reading a
 The household now pays through a Smart Contract that fetches the unit usage of the meter from the blockchain. Once the required amount is paid, the Smart - Contract uploads this transaction to a payment blockchain, and sends a permit signal to the IOT-enabled meter for next month The meter too is a smart device. If it does not receive a permit from the Smart Contract e.g. when the bill is not paid on time , then it trips the connection of the house. Hence, manual intervention is not needed and the process is automated.
 With the current prototype, we have developed a framework which is very easily extensible to other basic distribution services provided and administered by government like:
 
-Gas
+Liquified Petroleum Gas
 Water Supply
 Travel and transport
 
@@ -21,5 +21,5 @@ Approach Technique for Resolving the Problem
 Our solution is based on IoT smart devices that automate the process and blockchain which is tamper proof that ensures transparency and prevents and detects fraud. 
 
 IoT enabled meters installed in house automate the process of submitting periodic readings
-A decentralized blockchain ensures that every transaction in terms of electricity e.g. how much a house has utilized , how much a power plant has transmitted, etc is transparent and consistent. Any fraud would lead to inconsistent blocks, hence triggering detection of a possible illegal tap.
+A decentralized blockchain ensures that every transaction in terms of electricity e.g. how much a house has utilized , how much a power plant of organization has transmitted, etc is transparent and consistent. Any fraud would lead to inconsistent blocks, hence triggering detection of a possible illegal tap.
 Smart Contracts form the core of the system. They manage payments of each meter based on their blockchain readings, and manage permits for electricity for the next month. If a household fails to pay bill in the required time, the smart contract does not send permit to the IoT meter, which results in the meter automatically tripping the connection
