@@ -8,6 +8,16 @@ iv)Unethical selling of units by electricity board
 
 We have proposed an IOT and blockchain based solution :
 
+
+
+An IOT enabled meter is installed in every house, that sends the meter reading at regular intervals to a decentralized blockchain. This way, every house’s usage is transparent.Local transformers and power plants too are connected to the blockchain and upload their electricity transactions on a regular basis. Hence, in case of illegal tapping of electricity, the sum of electricity usage by individual houses and transformers/power plants will not be equal, and the blockchain will detect this theft.
+The household now pays through a Smart Contract that fetches the unit usage of the meter from the blockchain. Once the required amount is paid, the Smart - Contract uploads this transaction to a payment blockchain, and sends a permit signal to the IOT-enabled meter for next month The meter too is a smart device. If it does not receive a permit from the Smart Contract e.g. when the bill is not paid on time , then it trips the connection of the house. Hence, manual intervention is not needed and the process is automated.
+With the current prototype, we have developed a framework which is very easily extensible to other basic distribution services provided and administered by government supported activities like:
+
+Water Supply in Agriculture 
+Water Supply to houses 
+Travel and transport
+
 The smart grid is an alliance of hardware, management and reporting collection of programs; in the world of the smart grid, the consumers and profit firms have the equipment to manage, monitor and respond to the energy problems. The flow of electricity from electric companies to consumer becomes conservations and it not only saves the money of consumers but also the energy and decreases the carbon. 
 Many of the smart grid applied sciences are presently ready for the implementation of the current network to make them more efficient at better costs. The people using smart grid are as follows:
 
@@ -15,14 +25,6 @@ Individual consumers
 Corporate participants and
 Government regulations
 
-
-An IOT enabled meter is installed in every house, that sends the meter reading at regular intervals to a decentralized blockchain. This way, every house’s usage is transparent.Local transformers and power plants too are connected to the blockchain and upload their electricity transactions on a regular basis. Hence, in case of illegal tapping of electricity, the sum of electricity usage by individual houses and transformers/power plants will not be equal, and the blockchain will detect this theft.
-The household now pays through a Smart Contract that fetches the unit usage of the meter from the blockchain. Once the required amount is paid, the Smart - Contract uploads this transaction to a payment blockchain, and sends a permit signal to the IOT-enabled meter for next month The meter too is a smart device. If it does not receive a permit from the Smart Contract e.g. when the bill is not paid on time , then it trips the connection of the house. Hence, manual intervention is not needed and the process is automated.
-With the current prototype, we have developed a framework which is very easily extensible to other basic distribution services provided and administered by government like:
-
-Water Supply in Agriculture 
-Water Supply to houses 
-Travel and transport
 
 Approach Technique for Resolving the Problem 
 
