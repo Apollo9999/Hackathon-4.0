@@ -12,7 +12,8 @@ An IOT enabled meter is installed in every house, that sends the meter reading a
 The household now pays through a Smart Contract that fetches the unit usage of the meter from the blockchain. Once the required amount is paid, the Smart - Contract uploads this transaction to a payment blockchain, and sends a permit signal to the IOT-enabled meter for next month The meter too is a smart device. If it does not receive a permit from the Smart Contract e.g. when the bill is not paid on time , then it trips the connection of the house. Hence, manual intervention is not needed and the process is automated.
 With the current prototype, we have developed a framework which is very easily extensible to other basic distribution services provided and administered by government like:
 
-Water Supply
+Water Supply in Agriculture 
+Water Supply to houses 
 Travel and transport
 
 Approach Technique for Resolving the Problem 
