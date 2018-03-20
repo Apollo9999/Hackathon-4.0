@@ -1,10 +1,10 @@
 # Hackathon-4.0
 We have built a Smart City prototype by leveraging Internet of Things (IoT) and Smart Contracts to come up with a peer-to-peer monitored energy distribution system to solve most of the power grid problems in the state of Rajasthan . The main problems with the existing infrastructure are :-
 
-Billing process requires manual intervention.
-Electricity bill may not be paid on time by the buyer
-Illegal tapping of power lines
-Unethical selling of units by electricity board
+i)Billing process requires manual intervention.
+ii)Electricity bill may not be paid on time by the buyer
+iii)Illegal tapping of power lines
+iv)Unethical selling of units by electricity board
 
 We have proposed an IOT and blockchain based solution :
 
