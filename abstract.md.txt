@@ -1,9 +1,10 @@
-Abstract of Smart Grid and Its Applications with IOT & BLockChain
+Abstract of Smart Grid for Smart City  Applications with IOT & BLockChain As Underlining Technology
 
 Smart grid is an electrical grid which induces a variety of operational & energy measures including smart meters, smart appliances, renewable energy resources and energy efficient resources. The most important aspects of the smart grid are electronic power conditioning, control of production of electricity and distribution of electricity.
-	The Internet Of Things is the internetworking of physical devices, vehicles, buildings and other items – embedded with electronics, software, sensors, actuators and network connections that enable these objects to collect and exchange data. When IOT is augmented with sensors & actuators, the technology becomes an instance of the more general class of cyber–physical systems, which also encompass technologies such as smart grids & expanding to areas such as smart cities. [i.e. making smart things smarter]
+The Internet Of Things is the internetworking of physical devices, vehicles, buildings and other items – embedded with electronics, software, sensors, actuators and network connections that enable these objects to collect and exchange data. When IOT is augmented with sensors & actuators, the technology becomes an instance of the more general class of cyber–physical systems, which also encompass technologies such as smart grids & expanding to areas such as smart cities. [i.e. making smart things smarter]
 	Therefore, the strong coupling of information and communication technologies (ICT) – especially via the usage of networked embedded devices  with the energy domain is leading to a sophisticated dynamic ecosystem referred to as the Internet Of Energy.
 	In the last mile of the smart grid i.e. the future smart home, heterogeneous device will be able measure & share their energy consumption & actively participate in energy management systems.
+	
 We have built a Smart City prototype by leveraging Internet of Things (IoT) and Smart Contracts to come up with a peer-to-peer monitored energy distribution system to solve most of the power grid problems in the state of Rajasthan. The main problems with the existing infrastructure are :-
 
 - Billing process requires manual intervention.
