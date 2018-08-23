@@ -1,4 +1,42 @@
-# Hackathon-4.0
+Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. It began as a simple wrapper around Werkzeug and Jinja and has become one of the most popular Python web application frameworks.
+
+Flask offers suggestions, but doesn't enforce any dependencies or project layout. It is up to the developer to choose the tools and libraries they want to use. There are many extensions provided by the community that make adding new functionality easy.
+
+Installing
+Install and update using pip:
+
+pip install -U Flask
+A Simple Example
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    return 'Hello, World!'
+$ env FLASK_APP=hello.py flask run
+ * Serving Flask app "hello"
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+Contributing
+For guidance on setting up a development environment and how to make a contribution to Flask, see the contributing guidelines.
+
+Donate
+The Pallets organization develops and supports Flask and the libraries it uses. In order to grow the community of contributors and users, and allow the maintainers to devote more time to the projects, please donate today.
+
+Links
+Website: https://www.palletsprojects.com/p/flask/
+Documentation: http://flask.pocoo.org/docs/
+License: BSD
+Releases: https://pypi.org/project/Flask/
+Code: https://github.com/pallets/flask
+Issue tracker: https://github.com/pallets/flask/issues
+Test status:
+Linux, Mac: https://travis-ci.org/pallets/flask
+Windows: https://ci.appveyor.com/project/pallets/flask
+Test coverage: https://codecov.io/gh/pallets/flask
+
+
+
 Our Project aims for Smart City prototype by leveraging Internet of Things (IoT) and Smart Contracts to come up with a peer-to-peer monitored energy distribution system to solve most of the power grid problems in the state of Rajasthan . The main problems with the existing infrastructure are :-
 
 i)Billing process requires manual intervention.
